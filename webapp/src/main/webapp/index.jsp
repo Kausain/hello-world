@@ -5,4 +5,4 @@
 <h4> Deploying war file on docker container using Ansible playbook integrated with jenkins and docker hub </h4>
 <h5> Dora and Chuza </h5>
 <h1> Deploy war file on kubernetes using Ansible playbook integrated with Jenkins and Docker hub </h1>
-
+<h2> Deploy war file on Kubernetes using ansible playbook integrated with Jenkins and Docker hub by CI CD </h1>
